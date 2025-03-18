@@ -13,7 +13,7 @@
 - Sends real-time alerts via buzzer  
 - Displays sensor data on a Lucy web dashboard
 
-### 🚗 Car Rental Mobile App  
+### 🚗 Car Rental Mobile App (API Integration)  
 - Developed using Flutter
 - Features car booking, add Favourites, search models using Model Name or Brand Name
 - Designed for an easy-to-use customer experience 
@@ -26,7 +26,8 @@
 ### 🛒 Car Parts E-Commerce Platform  
 - Built using PHP, MySQL, and JavaScript
 - Allows searching, filtering, and secure checkout 
-- Features brand and model-based part searching  
+- Features brand and model-based part searching
+- Including Cart , Meeting Booking Service
 
 ---
 
