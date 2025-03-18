@@ -35,6 +35,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amilatharindu&show_icons=true&theme=radical)
 
 ---
+ 
+## 📫 **Connect with Me**
+[LinkedIn](https://www.linkedin.com/in/amila-tharindu) | [GitHub](https://github.com/amilatharindu)
 
-## 📫 **Connect with Me**  
-[LinkedIn]([#](http://www.linkedin.com/in/amila-tharindu-98153a34a) [GitHub](https://github.com/amilatharindu)
