@@ -37,4 +37,4 @@
 ---
 
 ## 📫 **Connect with Me**  
-[LinkedIn]([#]([http://www.linkedin.com/in/amila-tharindu-98153a34a]) | [Twitter](#) | [GitHub](https://github.com/amilatharindu)
+[LinkedIn]([#](http://www.linkedin.com/in/amila-tharindu-98153a34a) [GitHub](https://github.com/amilatharindu)
