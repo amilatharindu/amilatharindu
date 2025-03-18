@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Projects I've Worked On
+## 🛠️ Projects I Completed
 
 ### 🚨 IoT-Based Flood Alert System  
 - Built using ESP8266, Water Level Sensor, Float Sensor and Rain Sensor
